@@ -41,7 +41,7 @@ public class DailySpecials {
                 amount = input.nextInt();
 
                 if(amount == 0){
-                    System.out.println("Guess you don't like" +coffee+ "s!");
+                    System.out.println("Guess you don't like " +coffee+ "s!");
                 } else if(amount == 1) {
                     System.out.println("Looks like you'll only be ordering " +amount+ " " +coffee+ "!");
                 } else  {
@@ -56,7 +56,7 @@ public class DailySpecials {
                 System.out.println("How many " +coffee+ "'s would you like to order?");
                 amount = input.nextInt();
                 if(amount == 0){
-                    System.out.println("Guess you don't like" +coffee+ "s!");
+                    System.out.println("Guess you don't like " +coffee+ "s!");
                 } else if(amount == 1) {
                     System.out.println("Looks like you'll only be ordering " +amount+ " " +coffee+ "!");
                 } else  {
@@ -72,7 +72,7 @@ public class DailySpecials {
                 System.out.println("How many " +coffee+ "'s would you like to order?");
                 amount = input.nextInt();
                 if(amount == 0){
-                    System.out.println("Guess you don't like" +coffee+ "s!");
+                    System.out.println("Guess you don't like " +coffee+ "s!");
                 } else if(amount == 1) {
                     System.out.println("Looks like you'll only be ordering " +amount+ " " +coffee+ "!");
                 } else  {
@@ -88,7 +88,7 @@ public class DailySpecials {
                 System.out.println("How many " +coffee+ "'s would you like to order?");
                 amount = input.nextInt();
                 if(amount == 0){
-                    System.out.println("Guess you don't like" +coffee+ "s!");
+                    System.out.println("Guess you don't like " +coffee+ "s!");
                 } else if(amount == 1) {
                     System.out.println("Looks like you'll only be ordering " +amount+ " " +coffee+ "!");
                 } else  {
@@ -104,7 +104,7 @@ public class DailySpecials {
                 System.out.println("How many " +coffee+ "'s would you like to order?");
                 amount = input.nextInt();
                 if(amount == 0){
-                    System.out.println("Guess you don't like" +coffee+ "s!");
+                    System.out.println("Guess you don't like " +coffee+ "s!");
                 } else if(amount == 1) {
                     System.out.println("Looks like you'll only be ordering " +amount+ " " +coffee+ "!");
                 } else  {
