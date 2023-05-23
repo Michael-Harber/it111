@@ -32,6 +32,7 @@ public class ShowWindow2 {
         window.setLocationRelativeTo(null);
 
         window.setVisible(true);
+        window.setLayout(null);
 
         messageLabel = new JLabel("This is my first big label!!!");
         messageLabel.setFont(new Font("Plain",Font.BOLD, 16));
